@@ -1,0 +1,8 @@
+﻿# Temporary build artifacts
+build/
+*.tmp
+*.log
+
+# Keep dist for direct git tracking if desired
+!dist/PCL2_Setup.exe
+!dist/PCL2_Setup.audit.json

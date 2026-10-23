@@ -1,0 +1,34 @@
+﻿{
+    "version":  "2.13.1.1",
+    "payloadEntries":  [
+                           "Plain Craft Launcher 2.exe",
+                           "PCL/JavaWrapper.jar",
+                           "PCL/libjlw-x86_64-1.4.4.dll",
+                           "PCL/libwebp.dll",
+                           "PCL/Setup.ini",
+                           "PCL/",
+                           "PCL/Musics/",
+                           "PCL/Pictures/"
+                       ],
+    "payloadSha256":  {
+                          "Plain Craft Launcher 2.exe":  "30eb93c62fc51ede0898648e67455478a3d5a4f279938ae65aec77b84cb9703f",
+                          "PCL/JavaWrapper.jar":  "88eb3ee58854e916437831697ef6a2fd493da9bc4ffb018f620cd88f090952aa",
+                          "PCL/libjlw-x86_64-1.4.4.dll":  "78b1d8910f2ca68c5303b50a98d3b2377dab74501ac83201865347b2535a9510",
+                          "PCL/libwebp.dll":  "dc14a3500d5a7763191d1ced09efbeeb7dbe79a762811ea2cdb1d2f47f1032a6",
+                          "PCL/Setup.ini":  "ca91331a832441a27f2db5de766a218e37d65c7a2e3b4372d3ebcd8177aaa455"
+                      },
+    "installerSha256":  "78cdcbe4030724cef2d4fa8371b6f6fa29aad9bd162cc69b97b9db8d9ca275fa",
+    "personalValuesChecked":  10,
+    "excludedSensitiveFilesInspected":  6,
+    "personalValueOccurrences":  0,
+    "setupIni":  "Configured with SystemSystemUpdate:3 to prevent automatic updates",
+    "excluded":  [
+                     "LatestLaunch.bat",
+                     "Log*.txt",
+                     "registry dumps",
+                     ".minecraft",
+                     "source Setup.ini",
+                     "source Musics contents",
+                     "source Pictures contents"
+                 ]
+}
